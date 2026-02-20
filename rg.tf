@@ -7,6 +7,6 @@ resource "azurerm_resource_group" "nrg01" {
  tags = {
   department = "testing"
 department = "development"
-department = "Dev-ops engineer"
+
 }
 }
