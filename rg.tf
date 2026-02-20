@@ -1,7 +1,5 @@
-provider "azurerm" {
-    features {}
-  
-}
+
+
 
 resource "azurerm_resource_group" "nrg01" {
    name = "payyavula"
